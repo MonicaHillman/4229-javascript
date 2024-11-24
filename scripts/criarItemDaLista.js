@@ -1,4 +1,4 @@
-import gerarDiaDaSemana from "./gerarDiaDaSemana.js";
+
 const inputItem = document.getElementById("input-item")
 let contador = 0;
 
